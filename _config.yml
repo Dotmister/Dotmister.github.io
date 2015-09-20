@@ -10,7 +10,7 @@ email: adamncasey@gmail.com
 name: Adam Casey
 description: >
   Software Developer, Computer Science Student. Based in the UK.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://Dotmister.github.io" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
 logo: "assets/logo.png"
@@ -64,8 +64,8 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: "@Dotmister"
-    url: https://twitter.com/Dotmister
+    username: "@AdamN_Casey"
+    url: https://twitter.com/AdamN_Casey
     desc: Follow me on Twitter
     share_url: http://twitter.com/share
     share_title: ?text=
