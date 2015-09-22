@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Dummy Post 3"
-date:   2015-04-18 08:43:59
-author: Ben Centra
-categories: University
+title:  "Salisbury Womens Refuge"
+date:   2011-08-24 10:08:17
+author: Adam Casey
+categories: personal
 ---
 
 This is just a dummy post. Lorem ipsum and all the rest.

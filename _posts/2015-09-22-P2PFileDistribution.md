@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Dummy Post"
+title:  "P2P File Distribution"
 date:   2015-04-18 08:43:59
-author: Ben Centra
-categories: cv-research
+author: Adam Casey
+categories: university
 ---
 
 This is just a dummy post. Lorem ipsum and all the rest.

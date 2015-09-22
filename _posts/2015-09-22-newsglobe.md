@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Dummy Post 2"
+title:  "News Globe"
 date:   2015-04-18 08:43:59
-author: Ben Centra
+author: Adam Casey
 categories: personal
 ---
 
