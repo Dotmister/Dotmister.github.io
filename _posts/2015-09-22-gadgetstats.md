@@ -6,7 +6,7 @@ author: Adam Casey
 categories: personal
 ---
 
-This is just a dummy post. Lorem ipsum and all the rest.
+I'm still getting things setup. Come back later to read more about this project!
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
