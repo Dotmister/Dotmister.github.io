@@ -6,11 +6,10 @@ author: Adam Casey
 categories: university
 ---
 
-I'm still getting things setup. Come back later to read more about this project!
+Created for a third-year Computer Science module. We were given the specification to create either a P2P or a Multicast reliable file distribution system. I opted for P2P so it could be used on the open internet without issues.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I followed the original BitTorrent architecture for this practical, one central machine acts as the "swam manager" - directing new peers at existing peers. The rest of the peers connect to each other to download files. A file is split into standard sized chunks (Specified by the metadata file - the ".torrent" file equivalent, 256KB by default)
+
+File transfer is made reliable by checking downloaded chunks against the hashes stored in the metadata file. By using a cryptographic hash, SHA-256 (configurable for future-proofing), this system should also allow for the file to be retrieved from untrusted sources through hash-based chunk/file-verification.
+
+[Check it out on GitHub](https://github.com/adamncasey/CS3102-P2PFileDistribution)

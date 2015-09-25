@@ -6,11 +6,18 @@ author: Adam Casey
 categories: personal
 ---
 
-I'm still getting things setup. Come back later to read more about this project!
+Steam Instant-Messenger was a system I used a lot at the time, but it didn't support Windows Phone.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ID 3895
+Using some reverse-engineering of the protocol Valve used for the Android / iOS versions, my application was able to logon to the Steam servers (including 2-factor authentation) and send/receive messages from users on your friends list.
+
+![Mock-up of application.](/assets/blog/steamwp1.png)
+Above is a mock-up of the application, created whilst designing the look and feel of the application.
+
+
+![Login screen](/assets/blog/steamwp2.png)
+
+
+![Message page](/assets/blog/steamwp3.png)
+
+I found the application useful at the time. Unfortunately the app didn't have background notifications, I believe the API didn't support that at the time. I was close to packaging it up for publishing, however users had to type their Steam credentials into a third-party application. For this reason I decided not to persue publishing.
+
