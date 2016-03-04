@@ -15,4 +15,4 @@ To install the gadget on Windows 8 and above: Install [8GadgetPack](http://8gadg
 
 ![Clock Gadget in German - 12Hour time](/assets/gadget/gadget2.png)
 
-<a href="http://adamncasey.co.uk/Adam/ClockGadget/"><img src="/assets/gadget/download.png" style="width: 412px" alt="Click here to download the Gadget" /></a>
+<a href="http://adamncasey.co.uk/Adam/DesktopClock.gadget"><img src="/assets/gadget/download.png" style="width: 412px" alt="Click here to download the Gadget" /></a>
